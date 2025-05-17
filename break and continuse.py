@@ -1,4 +1,4 @@
-"""i = 1
+i = 1
 while i <= 3:
     print(i)
     if i == 3:
@@ -14,7 +14,7 @@ while i <= len(x):
         break
     else:
         print("not found")
-    i += 1"""
+    i += 1
 
 i = 0
 while i < 10:
