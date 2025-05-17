@@ -1,4 +1,4 @@
-"""dict1 = {
+dict1 = {
     "hassan": "toufeeq",
     "jan": "khan",
     "age": 23
@@ -68,7 +68,7 @@ print(dict4)
 dict5 = {
     "class": ["python", "javascip", "c++", "c", "java"]
 }
-print(len(dict5))"""
+print(len(dict5))
 
 
 marks = {}
