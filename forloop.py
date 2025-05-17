@@ -1,4 +1,4 @@
-"""list1 = [1, 2, 3, 4, 5, 6, 7]
+list1 = [1, 2, 3, 4, 5, 6, 7]
 for i in list1:
     print(i)
 
@@ -15,7 +15,7 @@ print("end of loop")
 
 
 
-str = {"hello", "world", "python"}=
+str = {"hello", "world", "python"}
 for char in str:
     print(char)
     
@@ -105,7 +105,7 @@ while i <= n:
     f *= i
     i += 1
 print("the facto", f)
-"""
+
 
 n = 4
 f = 1
