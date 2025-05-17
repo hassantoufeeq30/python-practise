@@ -1,4 +1,3 @@
-"""
 count = 1
 while count <= 5:
     print("string")
@@ -69,4 +68,4 @@ while b < len(t):
     elif (t[b] != z):
         print("not fond", b)
     b += 1
-    """
+    
