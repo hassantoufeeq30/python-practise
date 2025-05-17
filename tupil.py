@@ -1,4 +1,4 @@
-"""tup1 = (1, 2, 3, 4, 5, 6, 7)
+tup1 = (1, 2, 3, 4, 5, 6, 7)
 print(tup1)
 print(tup1[0])
 print(tup1[5])
@@ -38,5 +38,5 @@ if copy_list2 == list2:
 else:
     print("not palindro")
 
-"""
+
 tup6 = ("a")
