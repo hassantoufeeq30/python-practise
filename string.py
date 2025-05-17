@@ -1,4 +1,4 @@
-"""# string is defen
+# string is defen
 str1 = "hassan is good student."
 print(str1)
 len1 = len(str1)  # first string langht
@@ -40,4 +40,4 @@ print(s.lower())#3
 print(s[0:-6])#4
 
 print(s[-1:])#5
-"""
+
