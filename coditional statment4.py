@@ -1,4 +1,4 @@
-"""age = 20
+age = 20
 if (age >= 18):
     print("this is will be vota")
 
@@ -88,7 +88,7 @@ if year % 400 == 0:
     print("leap year")
 else:
     print("not leap year")
-"""
+
 chr1 = (input("checter"))
 if chr1 in aeiou:
     print("vawal")
