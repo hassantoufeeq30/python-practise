@@ -1,4 +1,4 @@
-"""list = [1, 2, 45, 67]
+list = [1, 2, 45, 67]
 print(list)
 print(list[:-1])
 print(type(list))
@@ -67,4 +67,4 @@ list8.pop(0)
 print(list8)
 list8.clear()
 print(list)
-"""
+
