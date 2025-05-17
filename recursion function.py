@@ -1,4 +1,4 @@
-"""def show(n):
+def show(n):
     print(n)
     if n == 0:
         return
@@ -27,7 +27,7 @@ def clu_sum(n):
 
 sum = clu_sum(5)
 print(sum)
-"""
+
 
 
 def print_list(list, indx=0):
